@@ -1,0 +1,1 @@
+MemcacheQ is a memcachedb variant that provides simple message queue service. For more info, please check: http://memcachedb.org/memcacheq/
